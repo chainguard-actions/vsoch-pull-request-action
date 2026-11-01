@@ -6,10 +6,10 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 ## Versions
 
-| Version | Tag | Upstream commit |
-|---------|-----|-----------------|
-| 1.1.0 | [`1.1.0`](https://github.com/chainguard-actions/vsoch-pull-request-action/tree/1.1.0) | [`0969c26`](https://github.com/vsoch/pull-request-action/commit/0969c26295afdeffaab628fee287a98b27eca529) |
-| 1.1.1 | [`1.1.1`](https://github.com/chainguard-actions/vsoch-pull-request-action/tree/1.1.1) | [`8823918`](https://github.com/vsoch/pull-request-action/commit/882391869b75196e039a732df05085312c456995) |
+| Version | Tag | Upstream commit | Hardening report |
+|---------|-----|-----------------|------------------|
+| 1.1.0 | [`1.1.0`](https://github.com/chainguard-actions/vsoch-pull-request-action/tree/1.1.0) | [`0969c26`](https://github.com/vsoch/pull-request-action/commit/0969c26295afdeffaab628fee287a98b27eca529) | [`HARDENING.md`](https://github.com/chainguard-actions/vsoch-pull-request-action/blob/1.1.0/HARDENING.md) |
+| 1.1.1 | [`1.1.1`](https://github.com/chainguard-actions/vsoch-pull-request-action/tree/1.1.1) | [`8823918`](https://github.com/vsoch/pull-request-action/commit/882391869b75196e039a732df05085312c456995) | [`HARDENING.md`](https://github.com/chainguard-actions/vsoch-pull-request-action/blob/1.1.1/HARDENING.md) |
 
 ## Privacy
 
